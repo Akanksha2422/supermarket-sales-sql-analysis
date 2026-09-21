@@ -267,5 +267,3 @@ The project also involved data validation and time-format correction to ensure t
 Akanksha Shukla
 
 Data Analytics Portfolio Project
-
-└── images
