@@ -268,21 +268,4 @@ Akanksha Shukla
 
 Data Analytics Portfolio Project
 
-### One issue when copying it
-
-Because the README itself contains SQL code blocks, make sure you copy **all the content**, including the backticks around SQL.
-
-Once saved, your project folder should start looking like:
-
-```text
-Supermarket-Sales-SQL-Analysis
-│
-├── README.md
-│
-├── data
-│   └── supermarket_sales.csv
-│
-├── sql
-│   └── supermarket_sales_analysis.sql
-│
 └── images
